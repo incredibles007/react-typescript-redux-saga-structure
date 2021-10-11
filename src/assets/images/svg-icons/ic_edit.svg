@@ -1,0 +1,15 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="12"
+    height="12"
+    viewBox="0 0 12 12"
+>
+    <path
+        fill="currentColor"
+        d="M9,10H2V3H4V1H1A1,1,0,0,0,0,2v9a1,1,0,0,0,1,1h9a1,1,0,0,0,1-1V8H9Z"
+    ></path>
+    <path
+        fill="currentColor"
+        d="M11.581.413a1.409,1.409,0,0,0-1.994,0L5,5,4,8,7,7l4.587-4.587a1.409,1.409,0,0,0,0-1.994Z"
+    ></path>
+</svg>

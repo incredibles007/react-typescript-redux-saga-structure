@@ -1,0 +1,10 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="12"
+    height="12"
+    viewBox="0 0 16 16"
+    style="transform: rotate(180deg)"
+>
+    <polygon points="6,7 0,7 0,9 6,9 6,12 10,8 6,4 "></polygon>
+    <path d="M15,16H1c-0.552,0-1-0.448-1-1v-4h2v3h12V2H2v3H0V1c0-0.552,0.448-1,1-1h14c0.552,0,1,0.448,1,1v14 C16,15.552,15.552,16,15,16z"></path>
+</svg>

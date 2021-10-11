@@ -1,0 +1,84 @@
+.graph-node {
+    .socket {
+        display: inline-block;
+        cursor: pointer;
+        border-radius: 50%;
+        border: 2px solid #586069;
+        background-color: #131619;
+        box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.5);
+        width: 8px;
+        min-width: 8px;
+        height: 8px;
+        margin: 6px;
+        vertical-align: middle;
+        z-index: 2;
+        box-sizing: border-box;
+
+        &:hover {
+            background-color: #586069;
+        }
+
+        &.input {
+            margin-left: -12px;
+        }
+
+        &.output {
+            margin-right: -12px;
+        }
+    }
+
+    &__input {
+        display: flex;
+        justify-content: flex-start;
+        margin-left: -4px;
+        position: inherit !important;
+    }
+
+    &__output {
+        display: flex;
+        justify-content: flex-end;
+        margin-right: -4px;
+        position: inherit !important;
+    }
+
+    &__cont {
+        position: inherit !important;
+    }
+
+    &__output::after,
+    &__input::after {
+        display: none !important;
+    }
+
+    &__group {
+        position: inherit !important;
+
+        &--input {
+            border-width: 0 0 0 2px;
+            border-style: solid;
+            border-color: currentColor;
+            border-radius: 0 4px 4px 0;
+
+            &::before {
+                display: none !important;
+            }
+        }
+
+        .socket {
+            &.input {
+                margin-left: -28px;
+                margin-right: 18px;
+            }
+
+            &.output {
+                margin-right: -28px;
+                margin-left: 18px;
+            }
+        }
+    }
+}
+
+.connection .main-path {
+    stroke-width: 2px !important;
+    stroke: #54616a !important;
+}

@@ -1,0 +1,18 @@
+.add-unit-and-dimention-dropdown-wrapper {
+    display: flex;
+    margin: 0;
+    position: relative;
+
+    .main-nav__subitem {
+        cursor: pointer;
+    }
+
+    .main-nav__dropdown {
+        left: unset;
+        right: 0;
+
+        &.visible {
+            margin-top: 1px;
+        }
+    }
+}

@@ -1,0 +1,34 @@
+.add-user-and-group-dropdown-wrapper {
+    display: flex;
+    margin: 0;
+    position: relative;
+
+    .main-nav__subitem {
+        cursor: pointer;
+    }
+
+    .main-nav__dropdown {
+        left: unset;
+        right: 0;
+
+        &.visible {
+            margin-top: 1px;
+        }
+    }
+}
+
+.form-multiselect__dropdown {
+    .form-checkbox {
+        .form-checkbox__label {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    }
+}
+
+.selected-group-names {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

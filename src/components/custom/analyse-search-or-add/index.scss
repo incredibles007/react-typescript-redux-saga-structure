@@ -1,0 +1,14 @@
+.analyses-page {
+    &.sidebar-search {
+        margin: 8px;
+    }
+}
+
+.button--new-analyse {
+    display: flex;
+    padding: 5px 10px;
+
+    .title {
+        margin-right: 10px;
+    }
+}

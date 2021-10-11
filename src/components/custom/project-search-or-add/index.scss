@@ -1,0 +1,14 @@
+.projects-page {
+    &.sidebar-search {
+        margin: 8px;
+    }
+}
+
+.button--new-project {
+    display: flex;
+    padding: 5px 10px;
+
+    .title {
+        margin-right: 10px;
+    }
+}

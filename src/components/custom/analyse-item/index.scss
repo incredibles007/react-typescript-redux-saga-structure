@@ -1,0 +1,26 @@
+.analyse-item-wrapper {
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    cursor: pointer;
+
+    &:hover {
+        background-color: blue;
+    }
+
+    .analyse-name {
+        width: 40%;
+    }
+
+    .analyse-owner {
+        width: 20%;
+    }
+
+    .analyse-created-at {
+        width: 20%;
+    }
+
+    .analyse-updated-at {
+        width: 20%;
+    }
+}

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <linearGradient id="children-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#88A2B5"/>
+      <stop offset="100%" stop-color="#677B88"/>
+    </linearGradient>
+    <linearGradient id="children-c" x1="50%" x2="50%" y1="0%" y2="5.966%">
+      <stop offset="0%" stop-color="#C1D1DE" stop-opacity=".4"/>
+      <stop offset="100%" stop-color="#C1D1DE" stop-opacity="0"/>
+    </linearGradient>
+    <path id="children-b" d="M20,12.7666827 C23.9401956,12.7666827 27.0106257,16.2219162 26.5405259,20.1354566 L33.2500293,20.1354566 L27.0607858,10.2347672 L12.9392142,10.2347672 L6.74997072,20.1354566 L13.4594741,20.1354566 C12.9901012,16.2276511 16.0542311,12.7666827 20,12.7666827 Z"/>
+    <linearGradient id="children-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#88A2B5"/>
+      <stop offset="100%" stop-color="#677B88"/>
+    </linearGradient>
+    <linearGradient id="children-f" x1="50%" x2="50%" y1="0%" y2="5.966%">
+      <stop offset="0%" stop-color="#C1D1DE" stop-opacity=".4"/>
+      <stop offset="100%" stop-color="#C1D1DE" stop-opacity="0"/>
+    </linearGradient>
+    <path id="children-e" d="M14.8286599,23.429063 C14.6305234,23.1776969 14.4499146,22.911307 14.288449,22.6324781 L5.18846398,22.6324781 L0.191836257,30.6244977 C-0.328019806,31.4560574 0.269782357,32.5348637 1.2504493,32.5348637 L10.764316,32.5348637 L10.764316,31.2155957 C10.764316,27.6128704 12.4691144,25.5233495 14.8286599,23.429063 Z"/>
+    <path id="children-g" d="M39.8081637,30.6244977 L34.811536,22.6324781 L25.711551,22.6324781 C25.5500854,22.911307 25.3694766,23.1776969 25.1713401,23.429063 C26.1643653,24.3105405 29.235684,26.6217837 29.235684,31.2155957 L29.235684,32.5348637 L38.7495507,32.5348637 C39.7302176,32.5348637 40.3280198,31.4560574 39.8081637,30.6244977 Z"/>
+    <linearGradient id="children-h" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#88A2B5"/>
+      <stop offset="100%" stop-color="#677B88"/>
+    </linearGradient>
+    <linearGradient id="children-j" x1="50%" x2="50%" y1="0%" y2="5.966%">
+      <stop offset="0%" stop-color="#C1D1DE" stop-opacity=".4"/>
+      <stop offset="100%" stop-color="#C1D1DE" stop-opacity="0"/>
+    </linearGradient>
+    <path id="children-i" d="M18.941387,0.63479627 L14.5007209,7.73766493 L25.4992791,7.73766493 L21.0586938,0.63479627 C20.5696123,-0.147411018 19.4303877,-0.147411018 18.941387,0.63479627 Z"/>
+    <linearGradient id="children-k" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#88A2B5"/>
+      <stop offset="100%" stop-color="#677B88"/>
+    </linearGradient>
+    <linearGradient id="children-m" x1="50%" x2="50%" y1="0%" y2="5.966%">
+      <stop offset="0%" stop-color="#C1D1DE" stop-opacity=".4"/>
+      <stop offset="100%" stop-color="#C1D1DE" stop-opacity="0"/>
+    </linearGradient>
+    <path id="children-l" d="M24.4539129,26.1316522 L23.2628318,25.0737661 C21.2884127,26.2044288 18.7972876,26.2535389 16.7372489,25.0737661 L15.5461679,26.1316522 C14.0937049,27.4201456 13.2614183,29.2737281 13.2614183,31.2155957 L13.2614183,38.7033485 C13.2614183,39.3929089 13.8203686,39.9518592 14.509929,39.9518592 L25.4901517,39.9518592 C26.1797122,39.9518592 26.7386625,39.3929089 26.7386625,38.7033485 L26.7386625,31.2155957 C26.7386625,29.2737281 25.9062951,27.4200649 24.4539129,26.1316522 Z"/>
+    <linearGradient id="children-n" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#88A2B5"/>
+      <stop offset="100%" stop-color="#677B88"/>
+    </linearGradient>
+    <linearGradient id="children-p" x1="50%" x2="50%" y1="0%" y2="5.966%">
+      <stop offset="0%" stop-color="#C1D1DE" stop-opacity=".4"/>
+      <stop offset="100%" stop-color="#C1D1DE" stop-opacity="0"/>
+    </linearGradient>
+    <path id="children-o" d="M15.9098895,19.353007 C15.9098895,21.6101322 17.7473173,23.4431175 20,23.4431175 C22.2437976,23.4431175 24.0901105,21.6206327 24.0901105,19.353007 C24.0901105,17.0982242 22.2547828,15.2637042 20,15.2637042 C17.7452172,15.2637042 15.9098895,17.0982242 15.9098895,19.353007 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g opacity=".5">
+      <use fill="url(#children-a)" xlink:href="#children-b"/>
+      <use fill="url(#children-c)" xlink:href="#children-b"/>
+      <use fill="#000" fill-opacity=".5" xlink:href="#children-b" style="mix-blend-mode:color"/>
+      <use fill="#000" fill-opacity=".42" xlink:href="#children-b" style="mix-blend-mode:multiply"/>
+    </g>
+    <g opacity=".5">
+      <use fill="url(#children-d)" xlink:href="#children-e"/>
+      <use fill="url(#children-f)" xlink:href="#children-e"/>
+      <use fill="#000" fill-opacity=".5" xlink:href="#children-e" style="mix-blend-mode:color"/>
+      <use fill="#000" fill-opacity=".42" xlink:href="#children-e" style="mix-blend-mode:multiply"/>
+    </g>
+    <g opacity=".5">
+      <use fill="url(#children-d)" xlink:href="#children-g"/>
+      <use fill="url(#children-f)" xlink:href="#children-g"/>
+      <use fill="#000" fill-opacity=".5" xlink:href="#children-g" style="mix-blend-mode:color"/>
+      <use fill="#000" fill-opacity=".42" xlink:href="#children-g" style="mix-blend-mode:multiply"/>
+    </g>
+    <g opacity=".5">
+      <use fill="url(#children-h)" xlink:href="#children-i"/>
+      <use fill="url(#children-j)" xlink:href="#children-i"/>
+      <use fill="#000" fill-opacity=".5" xlink:href="#children-i" style="mix-blend-mode:color"/>
+      <use fill="#000" fill-opacity=".42" xlink:href="#children-i" style="mix-blend-mode:multiply"/>
+    </g>
+    <use fill="url(#children-k)" xlink:href="#children-l"/>
+    <use fill="url(#children-m)" xlink:href="#children-l"/>
+    <use fill="#000" fill-opacity=".5" xlink:href="#children-l" style="mix-blend-mode:color"/>
+    <use fill="#000" fill-opacity=".42" xlink:href="#children-l" style="mix-blend-mode:multiply"/>
+    <use fill="url(#children-n)" xlink:href="#children-o"/>
+    <use fill="url(#children-p)" xlink:href="#children-o"/>
+    <use fill="#000" fill-opacity=".5" xlink:href="#children-o" style="mix-blend-mode:color"/>
+    <use fill="#000" fill-opacity=".42" xlink:href="#children-o" style="mix-blend-mode:multiply"/>
+  </g>
+</svg>

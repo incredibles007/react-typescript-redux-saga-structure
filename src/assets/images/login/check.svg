@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <linearGradient id="check-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#88A2B5"/>
+      <stop offset="100%" stop-color="#677B88"/>
+    </linearGradient>
+    <linearGradient id="check-c" x1="50%" x2="50%" y1="0%" y2="5.966%">
+      <stop offset="0%" stop-color="#C1D1DE" stop-opacity=".4"/>
+      <stop offset="100%" stop-color="#C1D1DE" stop-opacity="0"/>
+    </linearGradient>
+    <path id="check-b" d="M16.263726,23.7802284 L16.263726,23.7802284 C15.868125,23.7802284 15.5164423,23.604387 15.2966827,23.3407091 L8.65930288,16.131887 C8.17578125,15.6044471 8.21978365,14.7692428 8.74722356,14.2857212 C9.27466346,13.8021995 10.1098678,13.8462019 10.5933894,14.3736418 L16.3076442,20.5714183 L32.131851,4.79121394 C32.6592909,4.26377404 33.4944952,4.26377404 33.9780168,4.79121394 C34.4615385,5.31865385 34.5054567,6.15385817 33.9780168,6.63737981 L17.186851,23.3846274 C16.9670072,23.6483894 16.6154087,23.7802284 16.263726,23.7802284 Z"/>
+    <linearGradient id="check-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#88A2B5"/>
+      <stop offset="100%" stop-color="#677B88"/>
+    </linearGradient>
+    <linearGradient id="check-f" x1="50%" x2="50%" y1="0%" y2="5.966%">
+      <stop offset="0%" stop-color="#C1D1DE" stop-opacity=".4"/>
+      <stop offset="100%" stop-color="#C1D1DE" stop-opacity="0"/>
+    </linearGradient>
+    <path id="check-e" d="M17.4945313,34.9889784 C7.86810096,34.9889784 2.53472457e-13,27.1208774 2.53472457e-13,17.4945312 C2.53472457e-13,7.8681851 7.86810096,0 17.4945313,0 C18.2418149,0 18.8131731,0.571442308 18.8131731,1.31864183 C18.8131731,2.06584135 18.2417308,2.63728365 17.4945313,2.63728365 C9.31866587,2.63728365 2.63736779,9.31858173 2.63736779,17.4944471 C2.63736779,25.6703125 9.31866587,32.3516106 17.4945313,32.3516106 C25.6703966,32.3516106 32.3516947,25.6703125 32.3516947,17.4944471 C32.3516947,16.7471635 32.923137,16.1758053 33.6703365,16.1758053 C34.4175361,16.1758053 34.9889784,16.7472476 34.9889784,17.4944471 C34.9889784,27.1208774 27.1208774,34.9889784 17.4945313,34.9889784 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <use fill="url(#check-a)" xlink:href="#check-b"/>
+    <use fill="url(#check-c)" xlink:href="#check-b"/>
+    <use fill="#000" fill-opacity=".5" xlink:href="#check-b" style="mix-blend-mode:color"/>
+    <use fill="#000" fill-opacity=".42" xlink:href="#check-b" style="mix-blend-mode:multiply"/>
+    <use stroke="url(#check-a)" stroke-width="2" xlink:href="#check-b"/>
+    <use stroke="url(#check-c)" stroke-width="2" xlink:href="#check-b"/>
+    <use stroke="#000" stroke-opacity=".5" stroke-width="2" xlink:href="#check-b"/>
+    <use stroke="#000" stroke-opacity=".42" stroke-width="2" xlink:href="#check-b"/>
+    <use fill="url(#check-d)" xlink:href="#check-e"/>
+    <use fill="url(#check-f)" xlink:href="#check-e"/>
+    <use fill="#000" fill-opacity=".5" xlink:href="#check-e" style="mix-blend-mode:color"/>
+    <use fill="#000" fill-opacity=".42" xlink:href="#check-e" style="mix-blend-mode:multiply"/>
+    <use stroke="url(#check-d)" stroke-width="2" xlink:href="#check-e"/>
+    <use stroke="url(#check-f)" stroke-width="2" xlink:href="#check-e"/>
+    <use stroke="#000" stroke-opacity=".5" stroke-width="2" xlink:href="#check-e"/>
+    <use stroke="#000" stroke-opacity=".42" stroke-width="2" xlink:href="#check-e"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+.content-wrapper {
+    display: flex;
+
+    .main-content {
+        flex: 1;
+        overflow: auto;
+        height: calc(100vh - 90px);
+    }
+}

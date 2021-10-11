@@ -1,0 +1,26 @@
+.page-content-wrapper {
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+    .main-section {
+        flex: 1;
+    }
+
+    .right-section {
+        width: 280px;
+    }
+
+    &.users-page-content-wrapper {
+        padding-top: 6px;
+
+        .main-section {
+            background-color: #1c1e22;
+        }
+
+        .right-section {
+            margin: 0 6px;
+        }
+    }
+}

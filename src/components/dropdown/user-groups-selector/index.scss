@@ -1,0 +1,30 @@
+.form-multiselect__dropdown {
+    &.no-checkbox {
+        .form-checkbox {
+            padding-left: 0;
+        }
+    }
+}
+
+.add-group-item-btn-wrapper {
+    border-bottom: 1px solid #444a50;
+    padding: 2px 10px 6px;
+    margin-left: -10px;
+    margin-right: -10px;
+
+    .add-group-item-btn {
+        color: #1e9eff;
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        width: fit-content;
+
+        .ic-plus {
+            font-size: 18px;
+        }
+
+        .title {
+            margin-left: 10px;
+        }
+    }
+}
